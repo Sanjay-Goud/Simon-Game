@@ -3,7 +3,7 @@
 This repository contains a web-based Simon Game, a fun memory challenge where players try to repeat a sequence of colors and sounds. Each level adds a new color to the sequence, and the goal is to see how far you can get without making a mistake!
 
 ## Live Demo 🌐
-[Play the Simon Game](https://your-live-demo-link.com)
+[Play the Simon Game](https://sanjay-goud.github.io/Simon-Game/)
 
 ## Project Structure 📁
 
